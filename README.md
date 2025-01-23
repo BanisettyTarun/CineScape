@@ -1,6 +1,6 @@
 # CineScape
 <br>
-<p>Welcome to CineScape, your gateway to the captivating world of cinema! Designed as the ultimate movie discovery platform, CineScape invites you to dive into trending shows, explore popular movies, watch trailers, and uncover the stories behind your favorite titles and their creators.</p>
+<p>Dive into the world of cinema with CineScape, your ultimate movie discovery platform. From trending shows to popular movies, explore, watch trailers, and learn more about the creators behind your favorite titles.</p>
 <br>
 
 ## Seamless Search Experience
